@@ -32,4 +32,5 @@ nginx-ff6774dc6-4mbh7   1/1     Running   0          17m
 nginx-ff6774dc6-96w6c   1/1     Running   0          26s
 nginx-ff6774dc6-qn5n7   1/1     Running   0          17m
 nginx-ff6774dc6-v5dfw   1/1     Running   0          26s
+
 nginx-ff6774dc6-xklfv   1/1     Running   0          17m
